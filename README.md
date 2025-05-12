@@ -11,9 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmoo6837&layout=compact&theme=default)
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=danmoo6837&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danmoo4133)](https://git.io/streak-stats)
 
 ## 🧩 Baekjoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yourbojusername)](https://solved.ac/dlehddbs4133)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlehddbs4133)](https://solved.ac/dlehddbs4133)
 
 ---
