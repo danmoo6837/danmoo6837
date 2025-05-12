@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm a student developer!
 
-<!--
-**danmoo6837/danmoo6837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Tech Stack
+- 🐍 Python  
+- 💻 C  
+- 🛢️ MySQL  
+- 🐳 Docker  
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmoo6837&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmoo6837&layout=compact&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=danmoo6837&theme=default)](https://git.io/streak-stats)
+
+## 🧩 Baekjoon Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yourbojusername)](https://solved.ac/dlehddbs4133)
+
+---
