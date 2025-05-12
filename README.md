@@ -7,13 +7,11 @@
 - 🐳 Docker  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmoo6837&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmoo6837&layout=compact&theme=default)
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danmoo4133)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmoo6837&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmoo6837&layout=compact&theme=dark)
 
 ## 🧩 Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlehddbs4133)](https://solved.ac/dlehddbs4133)
+![Solved.ac](http://mazandi.herokuapp.com/api?handle=dlehddbs4133&theme=dark)
 
 ---
